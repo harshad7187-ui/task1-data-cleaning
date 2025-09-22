@@ -19,4 +19,5 @@ Mall Customers Dataset (50 rows sample used for practice).
 ## Final Output
 - File: `mall_customers_cleaned.xlsx`
 - The dataset is now free from duplicates, blanks, and inconsistent formats.
--
+
+
